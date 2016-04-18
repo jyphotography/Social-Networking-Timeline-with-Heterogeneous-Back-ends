@@ -1,6 +1,7 @@
 # Social-Networking-Timeline-with-Heterogeneous-Back-ends
-Full Stack Project\n
-1. use javascript for front end\n
+Full Stack Project
+
+1. use javascript for front end
 2. store userinfo on MySQL at Amazon RDS
 3. store friend connection on Hbase
 4. store timeline data on MongoDB
